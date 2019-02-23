@@ -1,0 +1,4 @@
+Syntax: [Entity] [Weapon] [Attack Type]
+
+AttackTypes:
+1 --> regular attack.
